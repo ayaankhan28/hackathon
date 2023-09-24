@@ -1,5 +1,5 @@
-
-# Flask Attendance App Documentation
+# Documentation
+# Flask Attendance App 
 
 ## Introduction
 
