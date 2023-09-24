@@ -1,6 +1,13 @@
 # Documentation
 # Flask Attendance App 
-
+# Table of Contents
+- Introduction
+- Prerequisites
+- Installation
+- Usage
+- Project Structure
+- Code Analysis
+- License
 ## Introduction
 
 The Flask Attendance App is a web-based application designed for marking attendance. This documentation provides an overview of the app's functionality, prerequisites for usage, installation instructions, and usage guidelines.
