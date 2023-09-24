@@ -1,2 +1,3 @@
 Get your api json file from Google cloud in json format and paste in your directory like this 
 C:\Users\Dell\AppData\Roaming\gspread\service_account.json
+For now it is supported on Windows only."will be available soon for Linux and Mac"
